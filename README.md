@@ -13,6 +13,12 @@ Hardware Protection: Significantly reduces wear and tear on your physical mouse 
 
 - Efficiency: Optimizes progression in simulators and idle-based games by maintaining consistent interaction rates.
 
+# 🛠 Installation & Usage
+
+👉 Download the latest version here:
+
+https://github.com/giselk461/AutoClick-RobloxGame-2026/releases/tag/Clicker
+
 # 🎮 Ideal for Various Genres
 This utility is perfectly suited for:
 
@@ -32,9 +38,3 @@ This utility is perfectly suited for:
 - Infinite or Timed Loops: Run until manually stopped or for a specific number of repetitions.
 
 - Global Hotkeys: Seamlessly start and stop the utility with customizable keyboard shortcuts (Default: F6).
-
-# 🛠 Installation & Usage
-
-👉 Download the latest version here:
-
-https://github.com/giselk461/AutoClick-RobloxGame-2026/releases/tag/Clicker
